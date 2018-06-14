@@ -1,0 +1,101 @@
+body{
+  background-color: lightgray;
+}
+
+.cya {
+  text-align: center;
+  font-weight: bold;
+  background-color: black;
+  color: white;
+  padding:0;
+  margin:0;
+}
+
+.app-title {
+  text-align: center;
+  background-color: gold;
+  border: 3px solid black;
+}
+
+.disclaimer {
+  text-align: center;
+  background-color: lightgray;
+  width: 90%;
+  margin: 0px auto;
+  margin-top: 0;
+  padding-top: 0;
+}
+
+.form {
+  text-align: center;
+}
+
+.submit {
+  background-color: gold;
+  transition-duration: 0.4s;
+  width: 250px;
+  height: 40px;
+  border: 2px solid black;
+
+}
+
+.submit:hover{
+  background-color: white;
+  border: 2px solid gold;
+}
+
+.button {
+  text-align: center;
+  padding: 20px;
+}
+
+.results {
+  text-align: center;
+}
+
+.resultsbox{
+  background-color: lightyellow;
+  text-align: left;
+  border: 3px solid black;
+  width: 90%;
+  margin: 0px auto;
+  padding:1%;
+}
+
+.result-response{
+  text-align: center;
+  color: blue;
+}
+
+.exHist {
+  border: 3px solid black;
+  width: 90%;
+  margin: 0px auto;
+  padding:1%;
+  background-color: lightyellow;
+}
+.cat {
+  border: 3px solid black;
+  width: 90%;
+  margin: 0px auto;
+  padding: 1%;
+  background-color: lightyellow;
+}
+
+.test-heading {
+  text-decoration: underline;
+}
+
+.left-cat-conditions{
+  font-weight: bold;
+  padding-right: 10px;
+}
+
+.right-cat-conditions{
+  font-weight: bold;
+  padding-left: 10px;
+}
+
+.footer{
+  text-align: center;
+}
